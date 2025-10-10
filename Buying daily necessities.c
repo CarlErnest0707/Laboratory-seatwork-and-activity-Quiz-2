@@ -8,14 +8,12 @@ int main() {
 
     do {
         total;
-
         printf("\nWhat do you want to purchase?:\n");
         printf("1. Vegetable (P54.5/k1)\n");
         printf("2. Fruits (P120-150/k1)\n");
         printf("3. Milk (P90/pack)\n");
         printf("4. Soap (P29.45/bar)\n");
         printf("5. Shampoo and Conditioner (P140/bottle)\n");
-
         printf("What do you want to purchase? Please select a number: ");
         scanf("%d", &choice);
 
